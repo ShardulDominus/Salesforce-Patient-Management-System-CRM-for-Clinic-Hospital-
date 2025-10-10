@@ -1,2 +1,2 @@
-# Salesforce-Patient-Management-System-CRM-for-Clinic-Hospital-
-A Salesforce Health Cloud solution for clinics/hospitals that manages patient records, appointment scheduling, care coordination, billing integration, and secure messaging while ensuring HIPAA compliance and streamlined healthcare workflows.
+# Salesforce-AI-Chef
+The AI Chef project addresses the critical challenge of leftover ingredient utilization and personalized recipe generation in modern households. With global food waste reaching 30-40% of all food produced, there is a significant opportunity to leverage AI technology to minimize waste while creating personalized culinary experiences.
